@@ -1,3 +1,3 @@
 # Synths Club: The Website!
 
-[http://syntsh.club](synths.club)
+[synths.club](http://syntsh.club)
